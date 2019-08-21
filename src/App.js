@@ -18,6 +18,8 @@ function App() {
         >
           Learn React
         </a>
+
+        <h1>coba nge push buat nge trigger travis CI</h1>
       </header>
     </div>
   );
