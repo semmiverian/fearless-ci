@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Belajar React
+          Learn React
         </a>
 
         <h1>coba nge push buat nge trigger travis CI</h1>
